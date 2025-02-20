@@ -84,13 +84,3 @@ findspark.init()
 from pyspark.sql import SparkSession
 spark = SparkSession.builder.appName("EstudosSpark").getOrCreate()
 spark
-
-🔗 Recursos Úteis
-
-📚 Documentação Oficial: Apache Spark Docs
-
-🎥 Cursos Online: Udemy, DataCamp, Coursera
-
-📖 Livros: "Learning Spark", "Spark in Action"
-
-💬 Comunidades: Stack Overflow, Databricks Forum
